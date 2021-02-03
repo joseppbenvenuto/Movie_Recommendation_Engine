@@ -2,7 +2,7 @@
 
 ## Dashboards
 
-<u>Plotly & Dash Dashboard:</u>
+**Plotly & Dash Dashboard**:
 
 ![](ReadMe_Images/Dash2.png)
 
