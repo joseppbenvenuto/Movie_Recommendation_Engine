@@ -1,11 +1,11 @@
 # Movie_Recommendation_Engine
 
-### Dashboard
+### Dashboards
 
-**Univariate & Bivariate Dashboard**:
+**Plotly & Dash Dashboard**:
 
 ![](ReadMe_Images/Dash2.png)
 
-**Bivariate & Multivariate Dashboard**:
+**Tableau Dashboard**:
 
 ![](ReadMe_Images/Dash1.png)
