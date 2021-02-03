@@ -60,7 +60,7 @@ https://movie-dash-app.herokuapp.com/
 
 1) **Data_Preprocessing.ipynb** - Cleaning and preprocessing large data using pyspark.
 2) **Movie_SVD_Recommendation_Engine.ipynb** - SVD model creation.
-3) **Tableau_Movie_Recommendation_Function.ipynb** - Recommendations functions created and exported to tabpy server to be used in Tableau.
+3) **Tableau_Movie_Recommendation_Functions.ipynb** - Recommendations functions created and exported to tabpy server to be used in Tableau.
 4) **Plotly_Dash_Movie_Recommender_Dashboard_APP.ipynb** - Plotly and Dash recommendation dashboard.
 5) **Movie_Recommendation.twb** - Tableau recommendation dashboard.
 
