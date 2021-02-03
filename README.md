@@ -18,8 +18,8 @@ Anyone looking to explore and get a deeper look into Toronto's restaurants can u
 
 ## SVD Test Results
 
-**RMSE**: 0.75
-**MAE**: 0.57
+* **RMSE**: 0.75
+* **MAE**: 0.57
 
 ## Dashboards
 
