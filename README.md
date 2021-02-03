@@ -1,5 +1,7 @@
 # Movie_Recommendation_Engine
 
+The project used singular value factorization to create 
+
 ## Dashboards
 
 **Plotly & Dash Dashboard**:
