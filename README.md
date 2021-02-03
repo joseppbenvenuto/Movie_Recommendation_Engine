@@ -2,10 +2,10 @@
 
 ## Dashboards
 
-__Plotly & Dash Dashboard__:
+**Plotly & Dash Dashboard**:
 
 ![](ReadMe_Images/Dash2.png)
 
-__Tableau Dashboard:__
+**Tableau Dashboard**:
 
 ![](ReadMe_Images/Dash1.png)
