@@ -16,14 +16,16 @@ Anyone looking to explore and get a deeper look into Toronto's restaurants can u
 2) Singular Value Decomposition (SVD) - used to create 2 restaurant recommendation engines basis all standards or food standards.
 3) Cosine Distances - used to measure similarities between latent features of restaurants.
 
-### Descriptive stats after cleaning and data preprocessing 
+## Results
+
+### Descriptive stats after cleaning and data preprocessing
 
 * **number of movies** - 462
 * **number of users** - 1,894
 * **number of ratings** - 607,734
 * **review dates** - 1995 - 2015 
 
-## SVD Test Results
+### SVD Test Results
 
 * **RMSE**: 0.75
 * **MAE**: 0.57
