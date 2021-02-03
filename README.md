@@ -1,6 +1,6 @@
 # Movie_Recommendation_Engine
 
-The analysis explored the movie data from datalens.com (url: https://grouplens.org/datasets/movielens/).
+The analysis explored the movie data set from datalens.com (url: https://grouplens.org/datasets/movielens/) where the data consisted of user ratings from January 09, 1995 and March 31, 2015.
 
 A recommendation engine was created using singular value decomposition (SVD) to create representative latent features of the movies, and with the latent features, cosine similarity was used to generate predictions given user movie ratings.
 
