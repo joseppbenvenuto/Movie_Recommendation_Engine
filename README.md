@@ -1,6 +1,6 @@
 # Movie_Recommendation_Engine
 
-### Dashboards
+## Dashboards
 
 **Plotly & Dash Dashboard**:
 
