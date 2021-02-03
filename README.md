@@ -8,7 +8,7 @@ Having completed the above, a recommendation dashboard app using plotly and dash
 
 In addition to the plotly and dash recommendation dashboard mentioned above, a second dashboard was created using the same recommendation engine in Tableau. The Tableau version consists of different features where the recommendations can be clicked by the user and directed to the movie trailer via YouTube. The user's data all gets retained in google sheets for future analysis. Because Tableau Online and/or Server is needed to deploy this app, the app can only run locally.
 
-Anyone looking to explore and get a deeper look into Toronto's restaurants can use this app.
+The movie recommendation app will appeal to movie enthusiasts and/or anyone looking for movie recommendations.
 
 ## Methods Used
 
