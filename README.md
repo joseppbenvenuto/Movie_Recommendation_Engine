@@ -1,4 +1,4 @@
-# Movie_Recommendation_Engine
+# Movie Recommendation Engine
 
 The analysis explored the movie data set from datalens.com (url: https://grouplens.org/datasets/movielens/) where the data consisted of user ratings from January 09, 1995 and March 31, 2015.
 
