@@ -53,7 +53,7 @@ https://movie-dash-app.herokuapp.com/
 ## Order of Analysis
 
 1) **Movie_SVD_Recommendation_Engine.ipynb**
-2) **Plotly_Dash_Movie_Recommender_Dashboard_APP.ipynb**
+2) **Plotly_Dash_Movie_Recommendation_Dashboard_APP.ipynb**
 3) **Movie_Recommendation.twb**
 
 ## Directory Files
@@ -61,7 +61,7 @@ https://movie-dash-app.herokuapp.com/
 1) **Data_Preprocessing.ipynb** - Cleaning and preprocessing large data using pyspark.
 2) **Movie_SVD_Recommendation_Engine.ipynb** - SVD model creation.
 3) **Tableau_Movie_Recommendation_Functions.ipynb** - Recommendations functions created and exported to tabpy server to be used in Tableau.
-4) **Plotly_Dash_Movie_Recommender_Dashboard_APP.ipynb** - Plotly and Dash recommendation dashboard.
+4) **Plotly_Dash_Movie_Recommendation_Dashboard_APP.ipynb** - Plotly and Dash recommendation dashboard.
 5) **Movie_Recommendation_Dash.twb** - Tableau recommendation dashboard.
 6) **SVD_Model.pkl** - SVD Model.
 
