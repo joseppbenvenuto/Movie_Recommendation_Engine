@@ -4,7 +4,7 @@ The analysis explored the movie data set from datalens.com (url: https://grouple
 
 A recommendation engine was created using singular value decomposition (SVD) to create representative latent features of the movies, and with the latent features, cosine similarity was used to generate predictions given user movie ratings.
 
-Having completed the above, a recommendation dashboard app using plotly and dash was created and deployed to Heroku https://movie-dash-app.herokuapp.com/ (**Username**: data, **Password:** analyst, **Note** - the dashboard takes a few seconds to load and is optimized for a 13-inch desktop). The dashboard allows the user to rate three movies to receive top 10 movie recommendations.
+Having completed the above, a recommendation dashboard app using plotly and dash was created and deployed to Heroku https://movie-dash-app.herokuapp.com/ (**Username**: data, **Password:** analyst). The dashboard allows the user to rate three movies to receive top 10 movie recommendations.
 
 In addition to the plotly and dash recommendation dashboard mentioned above, a second dashboard was created using the same recommendation engine in Tableau. The Tableau version consists of different features where the recommendations can be clicked by the user and directed to the movie trailer via YouTube. The user's data all gets retained in google sheets for future analysis. Because Tableau Online and/or Server is needed to deploy this app, the app can only run locally.
 
@@ -13,7 +13,7 @@ The movie recommendation app will appeal to movie enthusiasts and/or anyone look
 ## Methods Used
 
 1) Descriptive Statistics - used for preliminary data exploration.
-2) Singular Value Decomposition (SVD) - used to create 2 restaurant recommendation engines basis all standards or food standards.
+2) Singular Value Decomposition (SVD) - used to create two restaurant recommendation engines basis all standards or food standards.
 3) Cosine Distances - used to measure similarities between latent features of restaurants.
 
 ## Results
