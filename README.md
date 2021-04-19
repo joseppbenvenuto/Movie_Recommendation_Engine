@@ -13,7 +13,7 @@ The movie recommendation app will appeal to movie enthusiasts and/or anyone look
 ## Methods Used
 
 1) Descriptive Statistics - used for preliminary data exploration.
-2) Singular Value Decomposition (SVD) - used to create two restaurant recommendation engines basis all standards or food standards.
+2) Singular Value Decomposition (SVD) - used to create a movie recommendation engine.
 3) Cosine Distances - used to measure similarities between latent features of restaurants.
 
 ## Results
