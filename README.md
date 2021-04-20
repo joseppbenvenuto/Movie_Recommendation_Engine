@@ -20,10 +20,10 @@ The movie recommendation app will appeal to movie enthusiasts and/or anyone look
 
 ### Descriptive stats after cleaning and data preprocessing
 
-* **number of movies** - 462
-* **number of users** - 1,894
-* **number of ratings** - 607,734
-* **review dates** - 1995 - 2015 
+* **Number of movies** - 462
+* **Number of users** - 1,894
+* **Number of ratings** - 607,734
+* **Review dates** - 1995 - 2015 
 
 ### SVD Test Results
 
