@@ -34,7 +34,7 @@ The movie recommendation app will appeal to movie enthusiasts and/or anyone look
 
 **Plotly & Dash Dashboard**:
 
-<p><strong>App User Name:</strong> data<br> <strong>App Password:</strong> analyst <br><strong>Note -</strong> the dashboard takse a few seconds to load</p>
+<p><strong>App User Name:</strong> data<br> <strong>App Password:</strong> analyst <br><strong>Note -</strong> the dashboard takes a few seconds to load</p>
 
 * Deployed to Heroku here: https://movie-dash-app.herokuapp.com/
 ![](ReadMe_Images/Dash2.png)
