@@ -27,8 +27,8 @@ The movie recommendation app will appeal to movie enthusiasts and/or anyone look
 
 ### SVD Test Results
 
-* **RMSE**: 0.75
 * **MAE**: 0.57
+* **RMSE**: 0.75
 
 ## Dashboards
 
